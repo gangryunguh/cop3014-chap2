@@ -5,13 +5,18 @@ using namespace std;
 
 int main()
 {
-   long double apple;
+   // define long double variable apple
 
-   cout << "The size of an integer is " << sizeof(int);
+   // print the number of bytes needed to define an integer data type variable
+   cout << "The size of an integer is " <<
    cout << " bytes.\n";
-   cout << "The size of a long integer is " << sizeof(long);
+
+   // print the number of bytes needed to define a long integer data type variable
+   cout << "The size of a long integer is " <<
    cout << " bytes.\n";
-   cout << "An apple can be eaten in " << sizeof(apple);
+
+   // print the number of bytes allocated for the variable apple
+   cout << "An apple can be eaten in " <<
    cout << " bytes!\n";
    return 0;
 } 

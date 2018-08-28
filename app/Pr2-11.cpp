@@ -4,13 +4,23 @@ using namespace std;
 
 int main()
 {
-   int floors, rooms, suites;
+   // define an integer variables - floors, rooms, and suites
 
-   floors = 15;
-   rooms = 300;
-   suites = 30;
-   cout << "The Grande Hotel has " << floors << " floors\n";
-   cout << "with " << rooms << " rooms and " << suites;
-   cout << " suites.\n";
-   return 0;
+
+   // assign integer value 15 into floors
+
+   // assign integer value 300 into rooms
+
+   // assign integer value 30 into suites
+
+   // print "The Grande Hotel has ", followed by printing the integer value
+   // stored in floors, followed by printing " floors\n"
+
+   // print "with ", followed by printing the integer value stored in rooms,
+   // followed by " rooms and ", followed by the integer value stored in suites.
+
+   // print " suites.\n"
+
+   // return 0 back to the caller
+
 } 

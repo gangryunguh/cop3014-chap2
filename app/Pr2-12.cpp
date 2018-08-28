@@ -4,11 +4,16 @@ using namespace std;
 
 int main()
 {
-   char letter;
+   // define a char variable letter
 
-   letter = 'A';
-   cout << letter << endl;
-   letter = 'B';
-   cout << letter << endl;
-   return 0;
-} 
+   // assign 'A' to letter
+
+   // print the char value stored in letter, followed by printing a newline
+
+   // assign 'B' to letter
+
+   // print the char value stored in letter, followed by printing a newline
+
+   // return 0 back to the caller
+
+}

@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
-   cout << "Programming is " << "great fun!";
-   return 0;
+   // print "Programming is " to the console first, followed by "great fun!"
+   // to the console second. Cascading stream insertion operators.
+
+   // return 0 to the caller
+
 } 

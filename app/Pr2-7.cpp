@@ -4,9 +4,14 @@ using namespace std;
  
 int main()
 {
-   int number;
+   // define an integer variable number
 
-   number = 5;
-   cout << "The value in number is " << number << endl;
-   return 0;
+   // assign integer value 5 into the number
+
+   // print the "The value in number is " to the console
+   // followed by printing the integer value stored in the number to the console.
+   // Move the cursor to the next line
+
+   // return 0 back to the caller
+
 }

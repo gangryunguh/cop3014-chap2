@@ -4,9 +4,15 @@ using namespace std;
 
 int main()
 {
-   cout << "The following items were top sellers\n";
-   cout << "during the month of June:\n";
-   cout << "Computer games\nCoffee";
-   cout << "\nAspirin\n";
-   return 0;
-} 
+   // print "The following items were top sellers with newline char" to the console
+
+   // print "during the month of June: with a newline char" to the console
+
+   // print "Computer games with a newline char Coffee with a newline char"
+   // to the console
+
+   // print "a newline char Aspirin a newline char" to the console
+
+   // return 0 back to the caller
+
+}

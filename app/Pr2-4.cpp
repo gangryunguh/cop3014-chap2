@@ -4,10 +4,16 @@ using namespace std;
 
 int main()
 {
-   cout << "The following items were top sellers";
-   cout << "during the month of June:";
-   cout << "Computer games";
-   cout << "Coffee";
-   cout << "Aspirin";
-   return 0;
+   // print "The following items were top sellers" to the console
+
+   // print "during the month of June:" to the console
+
+   // print "Computer games" to the console
+
+   // print "Coffee" to the console
+
+   // print "Aspirin"to the console
+
+   // return 0 back to the caller
+
 } 

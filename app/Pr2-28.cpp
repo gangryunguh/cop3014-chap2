@@ -5,14 +5,15 @@ using namespace std;
 int main()
 {
 	// Constants
-	const double PI = 3.14159;
-	const double DIAMETER = 10.0;
+	// define constant double variable PI and assign 3.141592 into PI
 
-	// Variable to hold the circumference
+	// define constant double variable DIAMETER and assign 10.0 into DIAMETER
+
+	// define a dobule variable circumference
 	double circumference;
 
 	// Calculate the circumference.
-	circumference = PI * DIAMETER;
+
 
 	// Display the circumference.
 	cout << "The circumference is: " << circumference << endl;

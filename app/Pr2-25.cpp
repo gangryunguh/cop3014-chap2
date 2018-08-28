@@ -11,10 +11,10 @@ int main()
 	int minutes, seconds;
 
 	// Get the number of minutes.
-	minutes = totalSeconds / 60;
+
 
 	// Get the remaining seconds.
-	seconds = totalSeconds % 60;
+
 
 	// Display the results.
 	cout << totalSeconds << " is equivalent to:\n";

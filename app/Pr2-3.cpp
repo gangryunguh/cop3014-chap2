@@ -4,7 +4,10 @@ using namespace std;
 
 int main()
 {
-   cout << "Programming is ";
-   cout << "great fun!";
-   return 0;
-} 
+   // print "Programming is " to the console
+
+   // print "great fun!" to the console
+
+   // return 0 to the caller
+
+}

@@ -12,14 +12,14 @@ int main()
           overtimeHours = 10,      // Overtime hours worked
           totalWages;              // To hold total wages
 
-   // Calculate the regular wages.
-   regularWages = basePayRate * regularHours; 
+   // Calculate the regular wages by multiplying basePayRate and regularHours
+
    
-   // Calculate the overtime wages.
-   overtimeWages = overtimePayRate * overtimeHours;
+   // Calculate the overtime wages by multiplying overtimePayRate and overTimeHours
+
    
-   // Calculate the total wages.
-   totalWages = regularWages + overtimeWages;
+   // Calculate the total wages by adding regular wages and overtime wages.
+
    
    // Display the total wages.
    cout << "Wages for this week are $" << totalWages << endl;

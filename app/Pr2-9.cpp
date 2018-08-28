@@ -4,9 +4,14 @@ using namespace std;
 
 int main()
 {
-   int apples;
+   // define an integer variable apples
 
-   apples = 20;
-   cout << "Today we sold " << apples << " bushels of apples.\n";
-   return 0;
+   // assign integer value 20 into the apples
+
+   // print the "Today we sole "
+   // followed by printing the integer value stored in the apple,
+   // followed by printing " bushels of apples. with a newline char"
+
+   // return 0 back to the caller
+
 } 

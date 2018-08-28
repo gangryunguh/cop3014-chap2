@@ -11,11 +11,11 @@ int main()
     double regularPrice = 59.95, discount, salePrice;
            
     // Calculate the amount of a 20% discount.
-    discount = regularPrice * 0.20;
+
 
     // Calculate the sale price by subtracting the
     // discount from the regular price.
-    salePrice = regularPrice - discount;
+
 
     // Display the results.
     cout << "Regular price: $" << regularPrice << endl;

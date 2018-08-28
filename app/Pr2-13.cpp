@@ -5,11 +5,16 @@ using namespace std;
 
 int main()
 {
-   char letter;
+   // define a char variable letter
 
-   letter = 65;
-   cout << letter << endl;
-   letter = 66;
-   cout << letter << endl;
-   return 0;
+   // assign 65 to letter
+
+   // print the decoded char value stored in letter, followed by printing a newline
+
+   // assign 66 to letter
+
+   // print the decoded char value stored in letter, followed by printing a newline
+
+   // return 0 back to the caller
+
 } 

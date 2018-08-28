@@ -5,9 +5,14 @@ using namespace std;
 
 int main()
 {
-   string movieTitle;
+   // define a string object movieTitle
 
-   movieTitle = "Wheels of Fury";
-   cout << "My favorite movie is " << movieTitle << endl;
-   return 0;
+   // assign "Wheels of Fury" to movieTitle
+
+   // print "My favorite movie is ", followed by printing
+   // the string value stored in the object movieTitle,
+   // followed by printing a newline.
+
+   // return 0 back to the caller
+
 }

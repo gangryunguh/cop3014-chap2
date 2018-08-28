@@ -4,11 +4,16 @@ using namespace std;
 
 int main()
 {
-   bool boolValue;
+   // define a bool variable boolValue
 
-   boolValue = true;
+   // assign true logic value into boolValue
+
+   // print logic value stored in boolValue
    cout << boolValue << endl;
-   boolValue = false;
+
+   // assign false logic value into boolValue
+
+   // print logic value stored in boolValue
    cout << boolValue << endl;
    return 0;
 } 
